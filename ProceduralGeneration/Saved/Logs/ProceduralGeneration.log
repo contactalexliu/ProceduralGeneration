@@ -1,0 +1,760 @@
+﻿Log file open, 05/26/18 16:06:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProceduralGeneration
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-783074174) SRandInit(-783074174).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265157
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.646s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-G3E91AM (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.26-23.06.48:880][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.26-23.06.48:880][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.26-23.06.48:892][  0]LogInit: Computer: DESKTOP-G3E91AM
+[2018.05.26-23.06.48:892][  0]LogInit: User: HarshilK
+[2018.05.26-23.06.48:892][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.26-23.06.48:892][  0]LogInit: High frequency timer resolution =2.835937 MHz
+[2018.05.26-23.06.48:892][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.26-23.06.48:892][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.26-23.06.48:892][  0]LogMemory: Process Physical Memory: 275.00 MB used, 275.00 MB peak
+[2018.05.26-23.06.48:892][  0]LogMemory: Process Virtual Memory: 264.80 MB used, 264.80 MB peak
+[2018.05.26-23.06.48:892][  0]LogMemory: Physical Memory: 10886.99 MB used,  21753.95 MB free, 32640.94 MB total
+[2018.05.26-23.06.48:892][  0]LogMemory: Virtual Memory: 697.70 MB used,  21753.95 MB free, 134217728.00 MB total
+[2018.05.26-23.06.49:266][  0]LogInit: Using OS detected language (en-US).
+[2018.05.26-23.06.49:266][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.26-23.06.49:269][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.26-23.06.49:705][  0]LogStreaming: Display: Took  0.439s to EndInitTextLocalization.
+[2018.05.26-23.06.49:705][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.26-23.06.49:741][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.26-23.06.49:741][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.26-23.06.49:913][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.26-23.06.49:959][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.26-23.06.49:959][  0]LogD3D11RHI:       8086/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.26-23.06.49:978][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.26-23.06.49:978][  0]LogD3D11RHI:       128/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.26-23.06.49:980][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.26-23.06.49:980][  0]LogD3D11RHI:       0/0/16320 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.26-23.06.49:980][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.26-23.06.49:989][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.26-23.06.49:989][  0]LogD3D11RHI:     GPU DeviceId: 0x1be0 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.26-23.06.49:989][  0]LogWindows: EnumDisplayDevices:
+[2018.05.26-23.06.49:989][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.26-23.06.49:989][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.26-23.06.49:989][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.26-23.06.49:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.26-23.06.49:990][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.26-23.06.49:990][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.26-23.06.49:990][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.05.26-23.06.50:017][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.26-23.06.50:017][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.26-23.06.50:017][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.26-23.06.50:072][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.26-23.06.50:118][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Intermediate/Shaders/WorkingDirectory/23224/).
+[2018.05.26-23.06.50:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Harshil K/AppData/Local/Temp/UnrealShaderWorkingDir/87C4E03548A6E766D751F18AFF554BF0/'.
+[2018.05.26-23.06.50:332][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.26-23.06.50:345][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.26-23.06.50:357][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.26-23.06.50:375][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.26-23.06.50:387][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.26-23.06.50:400][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.26-23.06.50:413][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.26-23.06.50:426][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.26-23.06.50:432][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.26-23.06.50:448][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.26-23.06.50:461][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.26-23.06.50:475][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.26-23.06.50:489][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.26-23.06.50:505][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.26-23.06.50:521][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.26-23.06.50:545][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.26-23.06.50:545][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.26-23.06.50:557][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.26-23.06.50:558][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.26-23.06.50:594][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.26-23.06.50:605][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.26-23.06.50:617][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.26-23.06.50:628][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.26-23.06.50:641][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.26-23.06.50:653][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.26-23.06.50:653][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.26-23.06.50:732][  0]LogXGEController: Cleaning working directory: C:/Users/Harshil K/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.26-23.06.50:732][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.26-23.06.50:732][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.26-23.06.50:732][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.26-23.06.51:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Harshil K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Harshil K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.26-23.06.51:508][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.26-23.06.51:524][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.26-23.06.51:537][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Harshil K/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.26-23.06.51:537][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.26-23.06.51:537][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.26-23.06.51:548][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.26-23.06.51:548][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.26-23.06.51:549][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.26-23.06.51:549][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.26-23.06.51:652][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.05.26-23.06.52:017][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.26-23.06.52:156][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.26-23.06.52:158][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.26-23.06.52:158][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.26-23.06.52:158][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.26-23.06.52:158][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.26-23.06.52:158][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.26-23.06.52:182][  0]LogNetVersion: ProceduralGeneration , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3655622675)
+[2018.05.26-23.06.52:630][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.090963 seconds
+[2018.05.26-23.06.52:638][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.26-23.06.52:638][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.26-23.06.52:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.26-23.06.54:227][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.26-23.06.54:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.26-23.06.54:543][  0]SourceControl: Source control is disabled
+[2018.05.26-23.06.54:543][  0]SourceControl: Source control is disabled
+[2018.05.26-23.06.54:554][  0]SourceControl: Source control is disabled
+[2018.05.26-23.06.54:567][  0]SourceControl: Source control is disabled
+[2018.05.26-23.06.54:913][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.26-23.06.55:049][  0]LogOcInput: OculusInput pre-init called
+[2018.05.26-23.06.55:142][  0]LogEngine: Initializing Engine...
+[2018.05.26-23.06.55:144][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.26-23.06.55:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.26-23.06.55:145][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.26-23.06.55:362][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.26-23.06.55:385][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.06.55:828][  0]LogInit: FAudioDevice initialized.
+[2018.05.26-23.06.55:922][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Harshil K/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.26-23.06.55:933][  0]LogInit: Texture streaming: Enabled
+[2018.05.26-23.06.55:945][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.26-23.06.55:959][  0]LogInit: Transaction tracking system initialized
+[2018.05.26-23.06.55:975][  0]BlueprintLog: New page: Editor Load
+[2018.05.26-23.06.56:034][  0]LocalizationService: Localization service is disabled
+[2018.05.26-23.06.56:120][  0]LogConsoleResponse: Display: 
+[2018.05.26-23.06.56:260][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.26-23.06.56:260][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.26-23.06.56:260][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.26-23.06.56:260][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.26-23.06.56:260][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.26-23.06.56:509][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/' took 0.01s
+[2018.05.26-23.06.56:509][  0]SourceControl: Source control is disabled
+[2018.05.26-23.06.56:510][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Unreal Engine/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.05.26-23.06.56:513][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.05.26-23.06.56:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.05.26-23.06.56:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.05.26-23.06.56:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.05.26-23.06.56:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.05.26-23.06.56:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.05.26-23.06.56:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.05.26-23.06.56:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.05.26-23.06.56:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.05.26-23.06.56:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.05.26-23.06.56:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.05.26-23.06.56:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.05.26-23.06.56:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.05.26-23.06.56:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.05.26-23.06.56:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.05.26-23.06.56:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.05.26-23.06.56:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.05.26-23.06.56:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.05.26-23.06.56:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Fire01.uasset"
+[2018.05.26-23.06.56:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.05.26-23.06.56:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.05.26-23.06.56:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.05.26-23.06.56:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Light01.uasset"
+[2018.05.26-23.06.56:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.05.26-23.06.56:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Light02.uasset"
+[2018.05.26-23.06.56:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.05.26-23.06.56:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.05.26-23.06.56:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.05.26-23.06.56:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.05.26-23.06.56:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.05.26-23.06.56:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.05.26-23.06.56:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.05.26-23.06.56:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.05.26-23.06.56:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.05.26-23.06.56:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Steam01.uasset"
+[2018.05.26-23.06.56:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.05.26-23.06.56:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.05.26-23.06.56:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.05.26-23.06.56:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.05.26-23.06.56:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.05.26-23.06.56:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.05.26-23.06.56:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.05.26-23.06.56:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.05.26-23.06.56:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.05.26-23.06.56:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.05.26-23.06.56:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.05.26-23.06.56:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.05.26-23.06.56:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.05.26-23.06.56:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.05.26-23.06.56:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.05.26-23.06.56:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.05.26-23.06.56:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.05.26-23.06.56:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.05.26-23.06.56:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.05.26-23.06.56:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.05.26-23.06.56:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.05.26-23.06.56:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.05.26-23.06.56:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/StarterMap.umap"
+[2018.05.26-23.06.56:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.05.26-23.06.56:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.05.26-23.06.56:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.05.26-23.06.56:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.05.26-23.06.56:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.05.26-23.06.56:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.05.26-23.06.56:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.05.26-23.06.56:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.05.26-23.06.56:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.05.26-23.06.56:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.05.26-23.06.56:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.05.26-23.06.56:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.05.26-23.06.56:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.05.26-23.06.56:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.05.26-23.06.56:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.05.26-23.06.56:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.05.26-23.06.56:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.05.26-23.06.56:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.05.26-23.06.56:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.05.26-23.06.56:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.05.26-23.06.56:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.05.26-23.06.56:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.05.26-23.06.56:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.05.26-23.06.56:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.05.26-23.06.56:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.05.26-23.06.56:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.05.26-23.06.56:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.05.26-23.06.56:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.05.26-23.06.56:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.05.26-23.06.56:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.05.26-23.06.57:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.05.26-23.06.57:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.05.26-23.06.57:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.05.26-23.06.57:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.05.26-23.06.57:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.05.26-23.06.57:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.05.26-23.06.57:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.05.26-23.06.57:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.05.26-23.06.57:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.05.26-23.06.57:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.05.26-23.06.57:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.05.26-23.06.57:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.05.26-23.06.57:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.05.26-23.06.57:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.05.26-23.06.57:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.05.26-23.06.57:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.05.26-23.06.57:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.05.26-23.06.57:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.05.26-23.06.57:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.05.26-23.06.57:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.05.26-23.06.57:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.05.26-23.06.57:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.05.26-23.06.57:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.05.26-23.06.57:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.05.26-23.06.57:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.05.26-23.06.57:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.05.26-23.06.57:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.05.26-23.06.57:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.05.26-23.06.57:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.05.26-23.06.57:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.05.26-23.06.57:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.05.26-23.06.57:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.05.26-23.06.57:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.05.26-23.06.57:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.05.26-23.06.57:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.05.26-23.06.57:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Door.uasset"
+[2018.05.26-23.06.57:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.05.26-23.06.57:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.05.26-23.06.57:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.05.26-23.06.57:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.05.26-23.06.57:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.05.26-23.06.57:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.05.26-23.06.57:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.05.26-23.06.57:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.05.26-23.06.57:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.05.26-23.06.57:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.05.26-23.06.57:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.05.26-23.06.57:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.05.26-23.06.57:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.05.26-23.06.57:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.05.26-23.06.57:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.05.26-23.06.57:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.05.26-23.06.57:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.05.26-23.06.57:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.05.26-23.06.57:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.05.26-23.06.57:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.05.26-23.06.57:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.05.26-23.06.57:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.05.26-23.06.57:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.05.26-23.06.57:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.05.26-23.06.57:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.05.26-23.06.57:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.05.26-23.06.57:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.05.26-23.06.57:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.05.26-23.06.57:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.05.26-23.06.57:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.05.26-23.06.57:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.05.26-23.06.57:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.05.26-23.06.57:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.05.26-23.06.57:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.05.26-23.06.57:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.05.26-23.06.57:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.05.26-23.06.57:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.05.26-23.06.57:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.05.26-23.06.57:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.05.26-23.06.57:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.05.26-23.06.57:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.05.26-23.06.57:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.05.26-23.06.57:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.05.26-23.06.57:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.05.26-23.06.57:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.05.26-23.06.57:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.05.26-23.06.57:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.05.26-23.06.57:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.05.26-23.06.57:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.05.26-23.06.57:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.05.26-23.06.57:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.05.26-23.06.57:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.05.26-23.06.57:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.05.26-23.06.57:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.05.26-23.06.57:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.05.26-23.06.57:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.05.26-23.06.57:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.05.26-23.06.57:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.05.26-23.06.57:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.05.26-23.06.57:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.05.26-23.06.57:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.05.26-23.06.57:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.05.26-23.06.57:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.05.26-23.06.57:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.05.26-23.06.57:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.05.26-23.06.57:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.05.26-23.06.57:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.05.26-23.06.57:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.05.26-23.06.57:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.05.26-23.06.57:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.05.26-23.06.57:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.05.26-23.06.57:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.05.26-23.06.57:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.05.26-23.06.57:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.05.26-23.06.57:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.05.26-23.06.57:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.05.26-23.06.57:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.05.26-23.06.57:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.05.26-23.06.57:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.05.26-23.06.57:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.05.26-23.06.57:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.05.26-23.06.57:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.05.26-23.06.57:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.05.26-23.06.57:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.05.26-23.06.57:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.05.26-23.06.57:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.05.26-23.06.57:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.05.26-23.06.57:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.05.26-23.06.57:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.05.26-23.06.57:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.05.26-23.06.57:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.05.26-23.06.57:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.05.26-23.06.57:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.05.26-23.06.57:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.05.26-23.06.57:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.05.26-23.06.57:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.05.26-23.06.57:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.05.26-23.06.57:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.05.26-23.06.57:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.05.26-23.06.57:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.05.26-23.06.57:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.05.26-23.06.57:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.05.26-23.06.57:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.05.26-23.06.57:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.05.26-23.06.57:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.05.26-23.06.57:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.05.26-23.06.57:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.05.26-23.06.57:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.05.26-23.06.57:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.05.26-23.06.57:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.05.26-23.06.58:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.05.26-23.06.58:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.05.26-23.06.58:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.05.26-23.06.58:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.05.26-23.06.58:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.05.26-23.06.58:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.05.26-23.06.58:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.05.26-23.06.58:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.05.26-23.06.58:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.05.26-23.06.58:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.05.26-23.06.58:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.05.26-23.06.58:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.05.26-23.06.58:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.05.26-23.06.58:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.05.26-23.06.58:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.05.26-23.06.58:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.05.26-23.06.58:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.05.26-23.06.58:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.05.26-23.06.58:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.05.26-23.06.58:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.05.26-23.06.58:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.05.26-23.06.58:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.05.26-23.06.58:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.05.26-23.06.58:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.05.26-23.06.58:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.05.26-23.06.58:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.05.26-23.06.58:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.05.26-23.06.58:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.05.26-23.06.58:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.05.26-23.06.58:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.05.26-23.06.58:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.05.26-23.06.58:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.05.26-23.06.58:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.05.26-23.06.58:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.05.26-23.06.58:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.05.26-23.06.58:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.05.26-23.06.58:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.05.26-23.06.58:394][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.05.26-23.06.58:481][  0]LogSavePackage: Save=15.12ms
+[2018.05.26-23.06.58:481][  0]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Floor_400x400BC1D545C4D6D6F1D1EFE3E8DCEC76F23.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.05.26-23.06.58:483][  0]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.05.26-23.06.58:484][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.05.26-23.06.58:485][  0]Cmd: MAP LOAD FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.26-23.06.58:485][  0]LightingResults: New page: Lighting Build
+[2018.05.26-23.06.58:487][  0]MapCheck: New page: Map Check
+[2018.05.26-23.06.58:487][  0]LightingResults: New page: Lighting Build
+[2018.05.26-23.06.58:537][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029686af0340, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.26-23.06.58:547][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029686af0340, Size=64
+[2018.05.26-23.06.58:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000296e57eee00, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.26-23.06.58:556][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029686952200, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.26-23.06.58:587][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029686972500, Size=344, Default__RunCharacter_C Function /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter_C:ExecuteUbergraph_RunCharacter
+[2018.05.26-23.06.58:592][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029686972500, Size=344
+[2018.05.26-23.06.58:592][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002969065e800, Size=344, Default__RunCharacter_C Function /Engine/Transient.REINST_RunCharacter_C_4:ExecuteUbergraph_RunCharacter
+[2018.05.26-23.06.58:598][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002969068dc00, Size=344, Default__RunCharacter_C Function /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter_C:ExecuteUbergraph_RunCharacter
+[2018.05.26-23.06.58:667][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.05.26-23.06.58:667][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.05.26-23.06.58:667][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.05.26-23.06.58:683][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.05.26-23.06.58:683][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.05.26-23.06.58:683][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2018.05.26-23.06.58:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029690776a70, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.26-23.06.58:685][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.05.26-23.06.58:685][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.05.26-23.06.58:685][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.05.26-23.06.58:685][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.05.26-23.06.58:687][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029690776a70, Size=40
+[2018.05.26-23.06.58:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029690776a70, Size=40, Default__ThirdPersonExampleMap_C Function /Engine/Transient.REINST_ThirdPersonExampleMap_C_8:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.26-23.06.58:688][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029690777880, Size=40, Default__ThirdPersonExampleMap_C Function /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ExecuteUbergraph_ThirdPersonExampleMap
+[2018.05.26-23.06.58:731][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData'
+[2018.05.26-23.06.58:731][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.05.26-23.06.58:731][  0]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData' while loading NULL.
+[2018.05.26-23.06.58:731][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2018.05.26-23.06.58:752][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [11.199473ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.26-23.06.58:873][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.06.58:881][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.26-23.06.58:894][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000296e57eee00, Size=64
+[2018.05.26-23.06.58:894][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002969065e800, Size=344
+[2018.05.26-23.06.58:894][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029690776a70, Size=40
+[2018.05.26-23.06.58:895][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.26-23.06.58:936][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.832ms to complete.
+[2018.05.26-23.06.58:936][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.451
+[2018.05.26-23.06.59:064][  0]LogCollectionManager: Loaded 0 collections in 0.000691 seconds
+[2018.05.26-23.06.59:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Collections/' took 0.01s
+[2018.05.26-23.06.59:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Developers/HarshilK/Collections/' took 0.01s
+[2018.05.26-23.06.59:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Collections/' took 0.01s
+[2018.05.26-23.06.59:105][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.26-23.06.59:114][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2452 classes and 558 folders.
+[2018.05.26-23.06.59:119][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.26-23.06.59:149][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.26-23.06.59:153][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.26-23.06.59:163][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2018.05.26-23.06.59:181][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.26-23.06.59:184][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.26-23.06.59:189][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.26-23.06.59:231][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 10 NumSamples 1 (Frame:1).
+[2018.05.26-23.06.59:376][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.26-23.06.59:377][  0]LogLoad: (Engine Initialization) Total time: 12.17 seconds
+[2018.05.26-23.06.59:377][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.26-23.06.59:713][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.26-23.06.59:829][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.26-23.06.59:834][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.07.00:059][  1]LogAssetRegistry: Asset discovery search completed in 8.4289 seconds
+[2018.05.26-23.07.00:061][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.26-23.07.00:062][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2018.05.26-23.07.04:427][ 17]LogSlate: Window 'Message Log' being destroyed
+[2018.05.26-23.07.04:438][ 17]LogSlate: Window 'Message Log' being destroyed
+[2018.05.26-23.07.48:189][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.08.08:289][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.08.08:296][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.08:297][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.08.08:297][296]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:08:08 AM)
+[2018.05.26-23.08.08:297][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.08.08:318][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020712s)
+[2018.05.26-23.08.08:319][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.08.08:319][296]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2018.05.26-23.08.08:319][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021744s)
+[2018.05.26-23.08.08:339][296]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.08.08:389][296]LogInit: FAudioDevice initialized.
+[2018.05.26-23.08.08:441][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.08.08:444][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.08.08
+[2018.05.26-23.08.08:444][296]LogWorld: Bringing up level for play took: 0.001619
+[2018.05.26-23.08.08:447][296]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.26-23.08.08:447][296]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.586
+[2018.05.26-23.08.08:447][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.12:871][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.12:906][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.19:904][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.08.19:987][983]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.08.19:999][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.19:999][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.08.19:999][983]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:08:19 AM)
+[2018.05.26-23.08.20:000][983]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.08.20:011][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011313s)
+[2018.05.26-23.08.20:012][983]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.08.20:012][983]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.05.26-23.08.20:012][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012430s)
+[2018.05.26-23.08.20:032][983]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.08.20:081][983]LogInit: FAudioDevice initialized.
+[2018.05.26-23.08.20:116][983]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.08.20:118][983]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.08.20
+[2018.05.26-23.08.20:119][983]LogWorld: Bringing up level for play took: 0.001962
+[2018.05.26-23.08.20:120][983]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.087
+[2018.05.26-23.08.20:120][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.25:196][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.25:231][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.29:851][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.08.29:935][567]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.08.29:943][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.29:943][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.08.29:943][567]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:08:29 AM)
+[2018.05.26-23.08.29:943][567]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.08.29:954][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011130s)
+[2018.05.26-23.08.29:955][567]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.08.29:955][567]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.05.26-23.08.29:955][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012131s)
+[2018.05.26-23.08.29:974][567]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.08.30:022][567]LogInit: FAudioDevice initialized.
+[2018.05.26-23.08.30:057][567]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.08.30:059][567]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.08.30
+[2018.05.26-23.08.30:060][567]LogWorld: Bringing up level for play took: 0.001432
+[2018.05.26-23.08.30:061][567]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.028
+[2018.05.26-23.08.30:061][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.34:815][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.08.34:845][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.10.03:129][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.10.12:135][285]LogSlate: Window 'Source Control Login' being destroyed
