@@ -758,3 +758,895 @@ LogInit: Object subsystem initialized
 [2018.05.26-23.08.34:845][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.05.26-23.10.03:129][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.05.26-23.10.12:135][285]LogSlate: Window 'Source Control Login' being destroyed
+[2018.05.26-23.11.44:720][165]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.11.44:731][165]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.44:731][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.11.44:732][165]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:11:44 AM)
+[2018.05.26-23.11.44:732][165]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.11.44:746][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013765s)
+[2018.05.26-23.11.44:747][165]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.11.44:747][165]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2018.05.26-23.11.44:747][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014780s)
+[2018.05.26-23.11.44:771][165]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.11.44:824][165]LogInit: FAudioDevice initialized.
+[2018.05.26-23.11.44:860][165]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.11.44:863][165]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.11.44
+[2018.05.26-23.11.44:863][165]LogWorld: Bringing up level for play took: 0.001606
+[2018.05.26-23.11.44:864][165]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.169
+[2018.05.26-23.11.44:864][165]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.48:104][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.48:141][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.50:529][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.11.50:612][486]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.11.50:620][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.50:620][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.11.50:620][486]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:11:50 AM)
+[2018.05.26-23.11.50:620][486]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.11.50:633][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013132s)
+[2018.05.26-23.11.50:634][486]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.11.50:634][486]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2018.05.26-23.11.50:634][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014181s)
+[2018.05.26-23.11.50:657][486]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.11.50:708][486]LogInit: FAudioDevice initialized.
+[2018.05.26-23.11.50:743][486]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.11.50:745][486]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.11.50
+[2018.05.26-23.11.50:745][486]LogWorld: Bringing up level for play took: 0.001365
+[2018.05.26-23.11.50:746][486]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.287
+[2018.05.26-23.11.50:746][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.57:249][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.11.57:280][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.00:642][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.12.00:751][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.12.00:759][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.00:759][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.12.00:760][ 68]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:12:00 AM)
+[2018.05.26-23.12.00:760][ 68]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.12.00:773][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013141s)
+[2018.05.26-23.12.00:773][ 68]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.12.00:773][ 68]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2018.05.26-23.12.00:773][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013927s)
+[2018.05.26-23.12.00:797][ 68]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.12.00:846][ 68]LogInit: FAudioDevice initialized.
+[2018.05.26-23.12.00:880][ 68]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.12.00:882][ 68]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.12.00
+[2018.05.26-23.12.00:882][ 68]LogWorld: Bringing up level for play took: 0.001691
+[2018.05.26-23.12.00:883][ 68]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.15
+[2018.05.26-23.12.00:883][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.04:601][287]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.04:636][287]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.05:686][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.12.05:770][344]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.12.05:778][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.05:778][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.12.05:779][344]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:12:05 AM)
+[2018.05.26-23.12.05:779][344]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.12.05:791][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012166s)
+[2018.05.26-23.12.05:791][344]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.12.05:792][344]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.05.26-23.12.05:792][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013111s)
+[2018.05.26-23.12.05:812][344]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.12.05:863][344]LogInit: FAudioDevice initialized.
+[2018.05.26-23.12.05:894][344]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.12.05:897][344]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.12.05
+[2018.05.26-23.12.05:897][344]LogWorld: Bringing up level for play took: 0.001967
+[2018.05.26-23.12.05:898][344]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.865
+[2018.05.26-23.12.05:898][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.10:111][595]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.10:148][595]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.11:230][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.12.11:730][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.12.11:739][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.11:739][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.12.11:739][670]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:12:11 AM)
+[2018.05.26-23.12.11:740][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.12.11:752][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012059s)
+[2018.05.26-23.12.11:752][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.12.11:752][670]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2018.05.26-23.12.11:752][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012778s)
+[2018.05.26-23.12.11:775][670]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.12.11:827][670]LogInit: FAudioDevice initialized.
+[2018.05.26-23.12.11:862][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.12.11:865][670]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.12.11
+[2018.05.26-23.12.11:865][670]LogWorld: Bringing up level for play took: 0.001847
+[2018.05.26-23.12.11:866][670]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.833
+[2018.05.26-23.12.11:866][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.16:844][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.16:874][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.16:911][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.12.17:236][968]LogSlate: Took 0.299500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.26-23.12.18:202][  5]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.26-23.12.18:210][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.18:210][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.12.18:210][  5]PIE: New page: PIE session: ThirdPersonExampleMap (May 26, 2018, 9:12:18 AM)
+[2018.05.26-23.12.18:210][  5]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.26-23.12.18:224][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013602s)
+[2018.05.26-23.12.18:224][  5]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.26-23.12.18:225][  5]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.05.26-23.12.18:225][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014587s)
+[2018.05.26-23.12.18:248][  5]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.12.18:297][  5]LogInit: FAudioDevice initialized.
+[2018.05.26-23.12.18:331][  5]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.26-23.12.18:333][  5]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.26-16.12.18
+[2018.05.26-23.12.18:333][  5]LogWorld: Bringing up level for play took: 0.001361
+[2018.05.26-23.12.18:334][  5]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.699
+[2018.05.26-23.12.18:334][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.23:057][286]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.12.23:091][286]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.26-23.13.22:648][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.14.04:396][153]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.26-23.15.58:928][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.15.59:039][598]AssetReimport: New page: Outstanding source content changes 9:15:59 AM
+[2018.05.26-23.15.59:041][598]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.fbx)
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: Material, ItemCount : 1
+[2018.05.26-23.15.59:045][598]LogFbx: ItemName: Model, ItemCount : 1
+[2018.05.26-23.15.59:051][598]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.fbx
+[2018.05.26-23.15.59:057][598]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.00:893][598]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.26-23.16.00:960][598]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.fbx
+[2018.05.26-23.16.00:965][598]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.00:970][598]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.05.26-23.16.01:005][598]LogStaticMesh: Building static mesh Straight...
+[2018.05.26-23.16.01:006][598]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Straight.Straight
+[2018.05.26-23.16.01:021][598]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.16.01:060][599]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.fbx)
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: Material, ItemCount : 1
+[2018.05.26-23.16.01:063][599]LogFbx: ItemName: Model, ItemCount : 1
+[2018.05.26-23.16.01:070][599]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.fbx
+[2018.05.26-23.16.01:078][599]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.01:806][599]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.26-23.16.01:840][599]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.fbx
+[2018.05.26-23.16.01:847][599]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.01:852][599]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.05.26-23.16.01:864][599]LogStaticMesh: Building static mesh Left...
+[2018.05.26-23.16.01:866][599]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Left.Left
+[2018.05.26-23.16.01:880][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.16.01:902][600]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.fbx)
+[2018.05.26-23.16.01:905][600]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.05.26-23.16.01:905][600]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.05.26-23.16.01:906][600]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.05.26-23.16.01:906][600]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.05.26-23.16.01:906][600]LogFbx: ItemName: Material, ItemCount : 1
+[2018.05.26-23.16.01:906][600]LogFbx: ItemName: Model, ItemCount : 1
+[2018.05.26-23.16.01:916][600]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.fbx
+[2018.05.26-23.16.01:926][600]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.02:687][600]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.05.26-23.16.02:708][600]LogFbx: Loading FBX Scene from C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.fbx
+[2018.05.26-23.16.02:716][600]LogFbx: FBX Scene Loaded Succesfully
+[2018.05.26-23.16.02:721][600]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2018.05.26-23.16.02:734][600]LogStaticMesh: Building static mesh Right...
+[2018.05.26-23.16.02:737][600]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/Right.Right
+[2018.05.26-23.16.02:749][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.16.02:896][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.16.02:978][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Straight" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.uasset" SILENT=true
+[2018.05.26-23.16.02:999][601]LogSavePackage: Save=17.40ms
+[2018.05.26-23.16.02:999][601]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/StraightC3C5E7484ADE84E6E03EC09E1A606231.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.uasset'
+[2018.05.26-23.16.03:001][601]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Straight.uasset
+[2018.05.26-23.16.03:259][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Left" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.uasset" SILENT=true
+[2018.05.26-23.16.03:279][601]LogSavePackage: Save=17.34ms
+[2018.05.26-23.16.03:279][601]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/LeftC591E5A745E56CE806C37082CDB77344.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.uasset'
+[2018.05.26-23.16.03:282][601]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Left.uasset
+[2018.05.26-23.16.03:362][601]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.26-23.16.03:534][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Right" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.uasset" SILENT=true
+[2018.05.26-23.16.03:555][601]LogSavePackage: Save=18.50ms
+[2018.05.26-23.16.03:555][601]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RightA6B2F7384F0614FDDC406885E3880E62.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.uasset'
+[2018.05.26-23.16.03:558][601]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/Right.uasset
+[2018.05.26-23.16.04:127][613]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.26-23.16.04:642][629]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.26-23.16.05:409][652]LogSlate: Window 'Message Log' being destroyed
+[2018.05.26-23.16.05:442][652]LogSlate: Window 'Message Log' being destroyed
+[2018.05.26-23.16.06:845][688]AssetReimport: Importing new asset /Game/Geometry/Meshes/Straight.
+[2018.05.26-23.16.06:845][688]AssetReimport: Importing new asset /Game/Geometry/Meshes/Left.
+[2018.05.26-23.16.06:845][688]AssetReimport: Importing new asset /Game/Geometry/Meshes/Right.
+[2018.05.26-23.17.19:778][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.17.31:423][716]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.26-23.18.06:472][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.046
+[2018.05.26-23.18.06:474][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/lambert1] ([1] browsable assets)...
+[2018.05.26-23.18.06:528][344]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/lambert1.lambert1]
+[2018.05.26-23.18.06:528][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/lambert1]
+[2018.05.26-23.18.06:544][344]LogSavePackage: Save=14.54ms
+[2018.05.26-23.18.06:544][344]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert1_Auto17BEF13454422263DE2BC1E968DC855CA.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert1_Auto1.uasset'
+[2018.05.26-23.18.06:546][344]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert1_Auto1.uasset
+[2018.05.26-23.18.06:546][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/lambert2] ([1] browsable assets)...
+[2018.05.26-23.18.06:557][344]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/lambert2.lambert2]
+[2018.05.26-23.18.06:557][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/lambert2]
+[2018.05.26-23.18.06:573][344]LogSavePackage: Save=13.96ms
+[2018.05.26-23.18.06:573][344]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert2_Auto1396DE99749DCCE36CDBA93AC7BA45778.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert2_Auto1.uasset'
+[2018.05.26-23.18.06:574][344]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert2_Auto1.uasset
+[2018.05.26-23.18.06:575][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/lambert3] ([1] browsable assets)...
+[2018.05.26-23.18.06:586][344]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/lambert3.lambert3]
+[2018.05.26-23.18.06:586][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/lambert3]
+[2018.05.26-23.18.06:602][344]LogSavePackage: Save=14.25ms
+[2018.05.26-23.18.06:602][344]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert3_Auto1883316114E9942BF2E2168A95D80100B.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert3_Auto1.uasset'
+[2018.05.26-23.18.06:604][344]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/Geometry/Meshes/lambert3_Auto1.uasset
+[2018.05.26-23.18.06:604][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile] ([1] browsable assets)...
+[2018.05.26-23.18.06:604][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile]
+[2018.05.26-23.18.06:615][344]LogSavePackage: Save=9.70ms
+[2018.05.26-23.18.06:615][344]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile_Auto1B72145EA43CB4038CFCB7292C942B098.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto1.uasset'
+[2018.05.26-23.18.06:617][344]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto1.uasset
+[2018.05.26-23.18.06:617][344]LogFileHelpers: Auto-saving content packages took 0.144
+[2018.05.26-23.19.37:852][819]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.26-23.19.38:143][819]LogUObjectGlobals: Created PersistentFrame Addr=0x00000296ad080c50, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.26-23.19.38:143][819]LogUObjectGlobals: Created PersistentFrame Addr=0x00000296ad080c48, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.26-23.19.38:675][820]LogRenderer: Reallocating scene render targets to support 1288x652 Format 10 NumSamples 1 (Frame:1).
+[2018.05.26-23.19.41:617][851]LogRenderer: Reallocating scene render targets to support 1288x956 Format 10 NumSamples 1 (Frame:34).
+[2018.05.26-23.21.28:794][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.21.37:412][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.21.43:267][888]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.26-23.21.43:859][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.22.23:208][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.23.26:583][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.24.31:222][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.24.54:094][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.27.19:928][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.27.19:944][358]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.26-23.29.58:242][978]LogEditorTransaction: Undo Add In Parameter
+[2018.05.26-23.30.11:913][589]LogSlate: Took 0.283513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.26-23.30.21:043][881]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.26-23.30.40:477][508]LogSlate: Window 'BP_FloorTile*' being destroyed
+[2018.05.26-23.30.54:528][805]LogSlate: Window 'New Level' being destroyed
+[2018.05.26-23.30.54:535][805]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.26-23.30.54:557][805]LightingResults: New page: Lighting Build
+[2018.05.26-23.30.54:558][805]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.05.26-23.30.54:560][805]MapCheck: New page: Map Check
+[2018.05.26-23.30.54:560][805]LightingResults: New page: Lighting Build
+[2018.05.26-23.30.54:580][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029690777880, Size=40
+[2018.05.26-23.30.54:606][805]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.30.54:612][805]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.26-23.30.54:638][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.26-23.30.54:685][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.587ms to complete.
+[2018.05.26-23.30.54:685][805]LogFileHelpers: Loading map 'Template_Default' took 0.151
+[2018.05.26-23.31.28:311][ 75]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.26-23.31.44:677][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.31.50:570][202]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.26-23.31.50:570][202]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.26-23.31.50:599][202]LogSavePackage: Save=9.88ms
+[2018.05.26-23.31.50:599][202]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameModeB3A7EB7E43788CE250CCA4B834EA362B.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.05.26-23.31.50:609][202]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.05.26-23.31.50:753][202]LogSavePackage: Save=5.11ms
+[2018.05.26-23.31.50:753][202]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/ThirdPersonGameModeD4B0ED324E9F8B1DD4E00AB87DE5A3C0.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.05.26-23.31.50:757][202]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.26-23.32.10:246][441]LogSlate: Window 'RunGameMode' being destroyed
+[2018.05.26-23.33.21:248][892]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.26-23.34.57:550][759]LogSavePackage: Save=12.77ms
+[2018.05.26-23.34.57:550][759]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameMode465B15424E963D9BC230DB8EDFAE09ED.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.05.26-23.34.57:553][759]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.05.26-23.35.00:084][867]BlueprintLog: New page: Compile RunGameMode
+[2018.05.26-23.35.00:089][867]LogUObjectGlobals: Created PersistentFrame Addr=0x000002968e7612c8, Size=4, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.26-23.35.09:263][182]LogSlate: Window 'RunGameMode' being destroyed
+[2018.05.26-23.35.09:293][182]LogSlate: Window 'RunGameMode' being destroyed
+[2018.05.26-23.35.10:818][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.26-23.35.11:820][327]Cmd: DELETE
+[2018.05.26-23.35.11:820][327]Cmd: ACTOR DELETE
+[2018.05.26-23.35.11:821][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.26-23.35.11:840][327]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.05.26-23.35.11:898][331]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.26-23.35.20:107][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.35.42:303][ 86]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.26-23.35.42:308][ 86]LogPlayLevel: [PlayLevel] Compiling BP_FloorTile before play...
+[2018.05.26-23.35.42:476][ 86]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2018.05.26-23.35.42:477][ 86]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:35:42 AM)
+[2018.05.26-23.35.42:477][ 86]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.35.42:480][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2018.05.26-23.35.42:480][ 86]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.35.42:481][ 86]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.05.26-23.35.42:481][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003999s)
+[2018.05.26-23.35.42:507][ 86]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.35.42:555][ 86]LogInit: FAudioDevice initialized.
+[2018.05.26-23.35.42:555][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.35.42:592][ 86]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BP_FloorTile'
+[2018.05.26-23.35.42:592][ 86]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BP_FloorTile' while loading C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset.
+[2018.05.26-23.35.42:592][ 86]LoadErrors: Error: /Game/ThirdPersonBP/Blueprints/RunGameMode : Can't find file for asset. /Game/ThirdPersonBP/Blueprints/BP_FloorTile
+[2018.05.26-23.35.42:593][ 86]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/BP_FloorTile'
+[2018.05.26-23.35.42:593][ 86]LogLinker: Warning: Can't find file for asset '/Game/ThirdPersonBP/Blueprints/BP_FloorTile' while loading C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset.
+[2018.05.26-23.35.42:593][ 86]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.35.42:595][ 86]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.35.42
+[2018.05.26-23.35.42:595][ 86]LogWorld: Bringing up level for play took: 0.000492
+[2018.05.26-23.35.42:596][ 86]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.437
+[2018.05.26-23.36.11:211][301]LogEditorViewport: Clicking on Actor (LMB): BP_FloorTile_C (BP_FloorTile)
+[2018.05.26-23.36.36:802][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.36.52:898][611]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.05.26-23.36.55:112][741]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.26-23.36.59:818][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.37.04:579][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.37.04:580][905]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:37:04 AM)
+[2018.05.26-23.37.04:580][905]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.37.04:582][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2018.05.26-23.37.04:583][905]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.37.04:583][905]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.05.26-23.37.04:583][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003397s)
+[2018.05.26-23.37.04:609][905]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.37.04:656][905]LogInit: FAudioDevice initialized.
+[2018.05.26-23.37.04:656][905]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.37.04:691][905]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.37.04:692][905]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.37.04
+[2018.05.26-23.37.04:692][905]LogWorld: Bringing up level for play took: 0.000423
+[2018.05.26-23.37.04:693][905]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.339
+[2018.05.26-23.37.23:957][376]LogSlate: Window 'RunGameMode' being destroyed
+[2018.05.26-23.40.01:591][476]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029715988e50, Size=4, Default__SKEL_RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.26-23.40.38:034][393]BlueprintLog: New page: Compile RunGameMode
+[2018.05.26-23.40.38:039][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029715988e50, Size=4
+[2018.05.26-23.40.38:039][393]LogUObjectGlobals: Created PersistentFrame Addr=0x00000297279961e0, Size=4, SKEL_RunGameMode_C_2 Function /Engine/Transient.REINST_SKEL_RunGameMode_C_84:ExecuteUbergraph_RunGameMode
+[2018.05.26-23.40.38:043][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002968e7612c8, Size=4
+[2018.05.26-23.40.38:043][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029727996a70, Size=4, RunGameMode_C_11 Function /Engine/Transient.REINST_RunGameMode_C_86:ExecuteUbergraph_RunGameMode
+[2018.05.26-23.40.38:045][393]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029696db7de0, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.26-23.40.38:209][393]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000297279961e0, Size=4
+[2018.05.26-23.40.41:987][612]LogTemp: Repeating last play command: Simulate
+[2018.05.26-23.40.42:002][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.40.42:003][612]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:40:42 AM)
+[2018.05.26-23.40.42:003][612]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.40.42:004][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2018.05.26-23.40.42:005][612]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.40.42:005][612]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2018.05.26-23.40.42:005][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002785s)
+[2018.05.26-23.40.42:035][612]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.40.42:088][612]LogInit: FAudioDevice initialized.
+[2018.05.26-23.40.42:119][612]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.40.42:120][612]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.40.42
+[2018.05.26-23.40.42:120][612]LogWorld: Bringing up level for play took: 0.000788
+[2018.05.26-23.40.42:124][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:124][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:124][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:124][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:124][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:125][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:126][612]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.40.42:126][612]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.093
+[2018.05.26-23.41.34:440][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.42.09:646][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.43.26:220][532]LogSavePackage: Save=32.25ms
+[2018.05.26-23.43.26:220][532]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Untitled_1_Auto207C1C5604AE04C3FE130D29B8099D334.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2018.05.26-23.43.26:221][532]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Temp/Untitled_1_Auto2.umap
+[2018.05.26-23.43.26:229][532]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.068
+[2018.05.26-23.43.26:229][532]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2018.05.26-23.43.26:258][532]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2018.05.26-23.43.26:258][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2018.05.26-23.43.26:292][532]LogSavePackage: Save=18.18ms
+[2018.05.26-23.43.26:292][532]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameMode_Auto29C2395E549DF2E3D4B9DE9A5EEABAFDD.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset'
+[2018.05.26-23.43.26:295][532]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset
+[2018.05.26-23.43.26:296][532]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile] ([1] browsable assets)...
+[2018.05.26-23.43.26:313][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile]
+[2018.05.26-23.43.26:313][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile]
+[2018.05.26-23.43.26:342][532]LogSavePackage: Save=27.34ms
+[2018.05.26-23.43.26:342][532]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile_Auto29396F4684285A4B1FAE6F29411A6EB5E.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto2.uasset'
+[2018.05.26-23.43.26:343][532]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto2.uasset
+[2018.05.26-23.43.26:343][532]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.05.26-23.43.40:751][690]LogTemp: Repeating last play command: Simulate
+[2018.05.26-23.43.40:762][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.43.40:762][690]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:43:40 AM)
+[2018.05.26-23.43.40:762][690]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.43.40:764][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001519s)
+[2018.05.26-23.43.40:765][690]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.43.40:765][690]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.05.26-23.43.40:765][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002421s)
+[2018.05.26-23.43.40:795][690]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.43.40:844][690]LogInit: FAudioDevice initialized.
+[2018.05.26-23.43.40:876][690]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.43.40:877][690]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.43.40
+[2018.05.26-23.43.40:877][690]LogWorld: Bringing up level for play took: 0.000444
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:881][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.43.40:882][690]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.15
+[2018.05.26-23.43.52:229][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.44.32:527][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.46.33:170][755]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.26-23.46.33:501][755]LogSlate: Took 0.286743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.26-23.46.35:345][755]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.26-23.46.35:411][759]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.26-23.46.37:845][848]LogTemp: Repeating last play command: Simulate
+[2018.05.26-23.46.37:869][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.46.37:869][848]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:46:37 AM)
+[2018.05.26-23.46.37:870][848]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.46.37:872][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2018.05.26-23.46.37:873][848]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.46.37:873][848]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2018.05.26-23.46.37:873][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003824s)
+[2018.05.26-23.46.37:905][848]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.46.37:954][848]LogInit: FAudioDevice initialized.
+[2018.05.26-23.46.37:985][848]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.46.37:986][848]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.46.37
+[2018.05.26-23.46.37:986][848]LogWorld: Bringing up level for play took: 0.000488
+[2018.05.26-23.46.37:990][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:990][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:990][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:990][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:990][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:991][848]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.46.37:992][848]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.959
+[2018.05.26-23.47.00:847][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.47.21:038][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.47.35:310][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.48.27:533][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.48.27:617][131]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.26-23.48.42:869][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.48.42:969][ 33]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.26-23.48.49:549][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.48.49:549][385]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:48:49 AM)
+[2018.05.26-23.48.49:549][385]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.48.49:550][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001617s)
+[2018.05.26-23.48.49:551][385]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.48.49:551][385]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.05.26-23.48.49:551][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002408s)
+[2018.05.26-23.48.49:582][385]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.48.49:632][385]LogInit: FAudioDevice initialized.
+[2018.05.26-23.48.49:663][385]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.48.49:664][385]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.48.49
+[2018.05.26-23.48.49:665][385]LogWorld: Bringing up level for play took: 0.000427
+[2018.05.26-23.48.49:668][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:668][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:668][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:668][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:669][385]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.48.49:670][385]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.637
+[2018.05.26-23.49.06:685][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.49.14:273][857]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.26-23.49.20:772][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.49.20:773][179]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:49:20 AM)
+[2018.05.26-23.49.20:773][179]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.49.20:774][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001799s)
+[2018.05.26-23.49.20:775][179]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.49.20:776][179]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.05.26-23.49.20:776][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003022s)
+[2018.05.26-23.49.20:805][179]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.49.20:854][179]LogInit: FAudioDevice initialized.
+[2018.05.26-23.49.20:886][179]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.49.20:887][179]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.49.20
+[2018.05.26-23.49.20:887][179]LogWorld: Bringing up level for play took: 0.000446
+[2018.05.26-23.49.20:890][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:890][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:890][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:891][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:892][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:892][179]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.49.20:892][179]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.141
+[2018.05.26-23.49.48:800][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.50.09:129][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.50.09:195][ 71]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.26-23.50.14:361][355]LogTemp: Repeating last play command: Simulate
+[2018.05.26-23.50.14:372][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.26-23.50.14:373][355]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 9:50:14 AM)
+[2018.05.26-23.50.14:373][355]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.26-23.50.14:374][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001464s)
+[2018.05.26-23.50.14:375][355]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.26-23.50.14:375][355]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.05.26-23.50.14:375][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002434s)
+[2018.05.26-23.50.14:403][355]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.26-23.50.14:450][355]LogInit: FAudioDevice initialized.
+[2018.05.26-23.50.14:486][355]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.26-23.50.14:487][355]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-16.50.14
+[2018.05.26-23.50.14:487][355]LogWorld: Bringing up level for play took: 0.000425
+[2018.05.26-23.50.14:490][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:490][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:490][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:491][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:492][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:492][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:492][355]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.26-23.50.14:492][355]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.541
+[2018.05.26-23.50.42:596][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.26-23.54.42:847][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.54.45:490][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.26-23.54.47:345][549]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.26-23.54.47:473][550]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProceduralGeneration
+[2018.05.26-23.54.47:473][550]LogTemp: CWD: D:\Unreal Engine\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.26-23.54.47:473][550]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.19
+[2018.05.26-23.54.47:473][550]LogTemp: Env CWD: D:\Unreal Engine\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.26-23.54.47:473][550]LogTemp: BranchPath = DESKTOP-G3E91AM/D/Unreal Engine/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-G3E91AM/D/Unreal Engine/UE_4.19/Engine/Binaries
+[2018.05.26-23.54.47:569][551]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Harshil K\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.26-23.55.18:071][584]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.26-23.56.37:626][704]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.027
+[2018.05.26-23.56.37:630][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2018.05.26-23.56.37:630][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2018.05.26-23.56.37:658][704]LogSavePackage: Save=15.78ms
+[2018.05.26-23.56.37:658][704]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameMode_Auto39E7206724573EC4A08FB1DA9AB337449.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto3.uasset'
+[2018.05.26-23.56.37:660][704]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto3.uasset
+[2018.05.26-23.56.37:661][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile] ([1] browsable assets)...
+[2018.05.26-23.56.37:675][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile]
+[2018.05.26-23.56.37:675][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile]
+[2018.05.26-23.56.37:702][704]LogSavePackage: Save=24.57ms
+[2018.05.26-23.56.37:702][704]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile_Auto3EA555E3B428E192BB28B5784E456EB7A.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto3.uasset'
+[2018.05.26-23.56.37:704][704]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto3.uasset
+[2018.05.26-23.56.37:704][704]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.05.26-23.57.02:641][849]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.26-23.57.02:670][849]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.26-23.57.04:408][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.02.25:861][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.02.31:761][721]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.27-00.02.31:764][721]LogPlayLevel: [PlayLevel] Compiling RunGameMode before play...
+[2018.05.27-00.02.31:768][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029696db7de0, Size=16
+[2018.05.27-00.02.31:768][721]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029692b2cda0, Size=16, RunGameMode_C_26 Function /Engine/Transient.REINST_RunGameMode_C_114:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.02.31:771][721]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029692b2c680, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.02.31:947][721]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029692b2cda0, Size=16
+[2018.05.27-00.02.31:948][721]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (1 blueprints)
+[2018.05.27-00.02.31:948][721]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:02:31 AM)
+[2018.05.27-00.02.31:948][721]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.02.31:950][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001774s)
+[2018.05.27-00.02.31:950][721]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.02.31:951][721]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2018.05.27-00.02.31:951][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003052s)
+[2018.05.27-00.02.31:980][721]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.02.32:028][721]LogInit: FAudioDevice initialized.
+[2018.05.27-00.02.32:062][721]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.02.32:063][721]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.02.32
+[2018.05.27-00.02.32:063][721]LogWorld: Bringing up level for play took: 0.000443
+[2018.05.27-00.02.32:066][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:066][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:067][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:067][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:067][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:067][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:067][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:068][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:068][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:068][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:068][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:068][721]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.02.32:069][721]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.036
+[2018.05.27-00.03.30:963][249]LogEditorViewport: Clicking on Actor (LMB): BP_FloorTile_C (BP_FloorTile1)
+[2018.05.27-00.03.59:924][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.05.19:866][540]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.27-00.05.24:099][740]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.05.24:117][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.05.24:117][740]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:05:24 AM)
+[2018.05.27-00.05.24:117][740]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.05.24:119][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2018.05.27-00.05.24:119][740]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.05.24:120][740]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2018.05.27-00.05.24:120][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002203s)
+[2018.05.27-00.05.24:150][740]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.05.24:200][740]LogInit: FAudioDevice initialized.
+[2018.05.27-00.05.24:230][740]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.05.24:231][740]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.05.24
+[2018.05.27-00.05.24:232][740]LogWorld: Bringing up level for play took: 0.000424
+[2018.05.27-00.05.24:235][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:235][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:235][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:236][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:237][740]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.05.24:237][740]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.796
+[2018.05.27-00.05.41:318][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.08.49:923][805]BlueprintLog: New page: Compile RunGameMode
+[2018.05.27-00.08.49:930][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029692b2c680, Size=16
+[2018.05.27-00.08.49:930][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d6f8d40, Size=16, RunGameMode_C_32 Function /Engine/Transient.REINST_RunGameMode_C_126:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.08.49:933][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d6f83e0, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.08.54:370][977]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.08.54:387][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.08.54:388][977]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:08:54 AM)
+[2018.05.27-00.08.54:388][977]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.08.54:389][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001870s)
+[2018.05.27-00.08.54:390][977]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.08.54:391][977]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.05.27-00.08.54:391][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002982s)
+[2018.05.27-00.08.54:412][977]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d6f8d40, Size=16
+[2018.05.27-00.08.54:421][977]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.08.54:473][977]LogInit: FAudioDevice initialized.
+[2018.05.27-00.08.54:504][977]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.08.54:505][977]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.08.54
+[2018.05.27-00.08.54:506][977]LogWorld: Bringing up level for play took: 0.000452
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:509][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.08.54:510][977]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.522
+[2018.05.27-00.10.20:216][256]BlueprintLog: New page: Compile RunGameMode
+[2018.05.27-00.10.20:223][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d6f83e0, Size=16
+[2018.05.27-00.10.20:223][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029729263670, Size=16, RunGameMode_C_35 Function /Engine/Transient.REINST_RunGameMode_C_130:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.10.20:225][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029729261550, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.10.23:294][381]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.10.23:311][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.10.23:311][381]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:10:23 AM)
+[2018.05.27-00.10.23:311][381]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.10.23:313][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001435s)
+[2018.05.27-00.10.23:313][381]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.10.23:314][381]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2018.05.27-00.10.23:314][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002629s)
+[2018.05.27-00.10.23:334][381]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029729263670, Size=16
+[2018.05.27-00.10.23:342][381]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.10.23:390][381]LogInit: FAudioDevice initialized.
+[2018.05.27-00.10.23:421][381]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.10.23:422][381]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.10.23
+[2018.05.27-00.10.23:422][381]LogWorld: Bringing up level for play took: 0.000434
+[2018.05.27-00.10.23:427][381]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.394
+[2018.05.27-00.10.58:600][328]BlueprintLog: New page: Compile RunGameMode
+[2018.05.27-00.10.58:607][328]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029729261550, Size=16
+[2018.05.27-00.10.58:607][328]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e4710, Size=16, RunGameMode_C_38 Function /Engine/Transient.REINST_RunGameMode_C_134:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.10.58:609][328]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e79a0, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.02:167][485]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.11.02:184][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.11.02:184][485]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:11:02 AM)
+[2018.05.27-00.11.02:184][485]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.11.02:186][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001781s)
+[2018.05.27-00.11.02:187][485]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.11.02:187][485]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.05.27-00.11.02:187][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002894s)
+[2018.05.27-00.11.02:208][485]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d7e4710, Size=16
+[2018.05.27-00.11.02:217][485]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.11.02:267][485]LogInit: FAudioDevice initialized.
+[2018.05.27-00.11.02:296][485]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.11.02:298][485]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.11.02
+[2018.05.27-00.11.02:298][485]LogWorld: Bringing up level for play took: 0.000461
+[2018.05.27-00.11.02:302][485]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.731
+[2018.05.27-00.11.16:226][150]BlueprintLog: New page: Compile RunGameMode
+[2018.05.27-00.11.16:233][150]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d7e79a0, Size=16
+[2018.05.27-00.11.16:233][150]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e79a0, Size=16, RunGameMode_C_41 Function /Engine/Transient.REINST_RunGameMode_C_138:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.16:235][150]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e5bf0, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.19:384][253]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.11.19:400][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.11.19:401][253]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:11:19 AM)
+[2018.05.27-00.11.19:401][253]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.11.19:402][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001405s)
+[2018.05.27-00.11.19:403][253]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.11.19:403][253]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.05.27-00.11.19:403][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002271s)
+[2018.05.27-00.11.19:423][253]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d7e79a0, Size=16
+[2018.05.27-00.11.19:431][253]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.11.19:479][253]LogInit: FAudioDevice initialized.
+[2018.05.27-00.11.19:510][253]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.11.19:511][253]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.11.19
+[2018.05.27-00.11.19:512][253]LogWorld: Bringing up level for play took: 0.000698
+[2018.05.27-00.11.19:517][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:517][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:517][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:517][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:518][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:519][253]LogPhysics: Warning: ForeachShape(Trimesh): [/Engine/BasicShapes/Cube.Cube] ScaledElem[0] invalid
+[2018.05.27-00.11.19:519][253]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.486
+[2018.05.27-00.11.25:444][583]Cmd: TRANSACTION UNDO
+[2018.05.27-00.11.25:444][583]LogEditorTransaction: Undo Delete current selection
+[2018.05.27-00.11.25:445][583]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abb9668, Size=4, Default__SKEL_RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.25:843][601]Cmd: TRANSACTION UNDO
+[2018.05.27-00.11.25:843][601]LogEditorTransaction: Undo Create Pin Link
+[2018.05.27-00.11.25:844][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abb9668, Size=4
+[2018.05.27-00.11.25:844][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abb9668, Size=4, Default__SKEL_RunGameMode_C Function /Engine/Transient.REINST_SKEL_RunGameMode_C_142:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.25:845][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abb9248, Size=4, Default__SKEL_RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.26:193][614]Cmd: TRANSACTION UNDO
+[2018.05.27-00.11.26:193][614]LogEditorTransaction: Undo Delete current selection
+[2018.05.27-00.11.26:194][614]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abb9248, Size=4
+[2018.05.27-00.11.26:194][614]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abb9248, Size=4, Default__SKEL_RunGameMode_C Function /Engine/Transient.REINST_SKEL_RunGameMode_C_144:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.26:196][614]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abbbac8, Size=4, Default__SKEL_RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.29:491][723]BlueprintLog: New page: Compile RunGameMode
+[2018.05.27-00.11.29:497][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abbbac8, Size=4
+[2018.05.27-00.11.29:497][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972abbbac8, Size=4, SKEL_RunGameMode_C_13 Function /Engine/Transient.REINST_SKEL_RunGameMode_C_146:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.29:501][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d7e5bf0, Size=16
+[2018.05.27-00.11.29:501][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e5bf0, Size=16, RunGameMode_C_47 Function /Engine/Transient.REINST_RunGameMode_C_148:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.29:503][723]LogUObjectGlobals: Created PersistentFrame Addr=0x000002972d7e49a0, Size=16, Default__RunGameMode_C Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+[2018.05.27-00.11.29:666][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abbbac8, Size=4
+[2018.05.27-00.11.29:666][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abb9248, Size=4
+[2018.05.27-00.11.29:666][723]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972abb9668, Size=4
+[2018.05.27-00.11.32:694][841]LogTemp: Repeating last play command: Simulate
+[2018.05.27-00.11.32:711][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.11.32:711][841]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:11:32 AM)
+[2018.05.27-00.11.32:711][841]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.11.32:713][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001638s)
+[2018.05.27-00.11.32:714][841]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.11.32:714][841]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.05.27-00.11.32:714][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002627s)
+[2018.05.27-00.11.32:734][841]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002972d7e5bf0, Size=16
+[2018.05.27-00.11.32:743][841]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.11.32:791][841]LogInit: FAudioDevice initialized.
+[2018.05.27-00.11.32:821][841]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.11.32:822][841]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.11.32
+[2018.05.27-00.11.32:823][841]LogWorld: Bringing up level for play took: 0.000422
+[2018.05.27-00.11.32:827][841]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.206
+[2018.05.27-00.11.50:110][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.11.50:230][849]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.27-00.11.52:075][849]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.27-00.11.52:141][853]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.27-00.11.53:783][926]LogSavePackage: Save=18.37ms
+[2018.05.27-00.11.53:783][926]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameMode47142C2241E6AA8917ACFD85DBDC7354.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.05.27-00.11.53:792][926]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.05.27-00.11.55:398][989]LogSavePackage: Save=24.97ms
+[2018.05.27-00.11.55:398][989]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile5C30E49D4A4C24332144AE85BCFAB2A9.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.05.27-00.11.55:407][989]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.05.27-00.11.57:586][ 87]LogSavePackage: Save=16.12ms
+[2018.05.27-00.11.57:586][ 87]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile9186B1CC400F68699EEB03825784EB4C.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.05.27-00.11.57:587][ 87]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.05.27-00.11.58:750][128]LogSavePackage: Save=15.98ms
+[2018.05.27-00.11.58:750][128]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/RunGameModeF79151424457EBDD4D3B40B75F13A2DE.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2018.05.27-00.11.58:751][128]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.05.27-00.12.43:469][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.13.02:014][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.13.09:574][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.13.34:445][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.13.56:762][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.14.06:647][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.14.39:393][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.14.39:609][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.14.39:668][841]LogSavePackage: Save=21.97ms
+[2018.05.27-00.14.39:668][841]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile8A1C6F61471EA9ED6ABC3A84F91465DA.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.05.27-00.14.39:671][841]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.05.27-00.14.40:380][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.14.40:432][872]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.27-00.16.29:163][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.17.51:589][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.18.03:573][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.18.07:369][313]LogUObjectGlobals: Created PersistentFrame Addr=0x00000296c7563c98, Size=4, Default__SKEL_BP_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/BP_FloorTile.SKEL_BP_FloorTile_C:ExecuteUbergraph_BP_FloorTile
+[2018.05.27-00.20.28:419][680]BlueprintLog: New page: Compile BP_FloorTile
+[2018.05.27-00.20.28:424][680]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000296c7563c98, Size=4
+[2018.05.27-00.20.28:424][680]LogUObjectGlobals: Created PersistentFrame Addr=0x000002974b071598, Size=4, Default__SKEL_BP_FloorTile_C Function /Engine/Transient.REINST_SKEL_BP_FloorTile_C_162:ExecuteUbergraph_BP_FloorTile
+[2018.05.27-00.20.28:436][680]LogUObjectGlobals: Created PersistentFrame Addr=0x00000296c87f16e0, Size=224, Default__BP_FloorTile_C Function /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile_C:ExecuteUbergraph_BP_FloorTile
+[2018.05.27-00.20.28:694][680]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002974b071598, Size=4
+[2018.05.27-00.20.44:795][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.20.44:796][178]PIE: New page: PIE session: Untitled_1 (May 26, 2018, 10:20:44 AM)
+[2018.05.27-00.20.44:796][178]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.20.44:798][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002196s)
+[2018.05.27-00.20.44:799][178]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.20.44:800][178]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2018.05.27-00.20.44:800][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004068s)
+[2018.05.27-00.20.44:830][178]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.20.44:880][178]LogInit: FAudioDevice initialized.
+[2018.05.27-00.20.44:915][178]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.20.44:916][178]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.20.44
+[2018.05.27-00.20.44:916][178]LogWorld: Bringing up level for play took: 0.000463
+[2018.05.27-00.20.44:922][178]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.11
+[2018.05.27-00.21.41:379][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.21.42:699][605]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.27-00.21.42:716][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.21.42:717][605]PIE: New page: PIE session: Untitled_1 (May 26, 2018, 10:21:42 AM)
+[2018.05.27-00.21.42:717][605]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.21.42:719][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001878s)
+[2018.05.27-00.21.42:719][605]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.21.42:720][605]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.05.27-00.21.42:720][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002999s)
+[2018.05.27-00.21.42:748][605]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.21.42:796][605]LogInit: FAudioDevice initialized.
+[2018.05.27-00.21.42:796][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.21.42:825][605]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.21.42:827][605]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.21.42
+[2018.05.27-00.21.42:827][605]LogWorld: Bringing up level for play took: 0.000499
+[2018.05.27-00.21.42:833][605]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.199
+[2018.05.27-00.21.52:350][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.21.54:301][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.21.54:301][249]PIE: New page: SIE session: Untitled_1 (May 26, 2018, 10:21:54 AM)
+[2018.05.27-00.21.54:301][249]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.21.54:302][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001582s)
+[2018.05.27-00.21.54:304][249]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.21.54:304][249]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.05.27-00.21.54:304][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002748s)
+[2018.05.27-00.21.54:332][249]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.21.54:379][249]LogInit: FAudioDevice initialized.
+[2018.05.27-00.21.54:379][249]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.21.54:409][249]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.21.54:410][249]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.21.54
+[2018.05.27-00.21.54:410][249]LogWorld: Bringing up level for play took: 0.000549
+[2018.05.27-00.21.54:417][249]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.616
+[2018.05.27-00.22.27:469][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.22.30:121][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.22.31:946][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.27-00.22.31:946][134]PIE: New page: PIE session: Untitled_1 (May 26, 2018, 10:22:31 AM)
+[2018.05.27-00.22.31:947][134]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.05.27-00.22.31:949][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002298s)
+[2018.05.27-00.22.31:949][134]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.27-00.22.31:950][134]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2018.05.27-00.22.31:950][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003253s)
+[2018.05.27-00.22.31:981][134]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.05.27-00.22.32:030][134]LogInit: FAudioDevice initialized.
+[2018.05.27-00.22.32:030][134]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.22.32:061][134]LogLoad: Game class is 'RunGameMode_C'
+[2018.05.27-00.22.32:062][134]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.05.26-17.22.32
+[2018.05.27-00.22.32:062][134]LogWorld: Bringing up level for play took: 0.000710
+[2018.05.27-00.22.32:068][134]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.035
+[2018.05.27-00.23.06:749][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.23.45:801][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.022
+[2018.05.27-00.23.45:803][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile] ([1] browsable assets)...
+[2018.05.27-00.23.45:832][701]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile]
+[2018.05.27-00.23.45:832][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile]
+[2018.05.27-00.23.45:871][701]LogSavePackage: Save=30.09ms
+[2018.05.27-00.23.45:871][701]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTile_Auto498CF8A014B48870784FEA89708F0D0C0.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto4.uasset'
+[2018.05.27-00.23.45:874][701]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto4.uasset
+[2018.05.27-00.23.45:874][701]LogFileHelpers: Auto-saving content packages took 0.071
+[2018.05.27-00.24.28:091][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-00.24.28:291][442]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.27-00.24.28:305][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.24.52:220][442]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.27-00.24.53:995][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.27-00.24.54:058][442]LogSavePackage: Save=22.98ms
+[2018.05.27-00.24.54:058][442]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/World7B43CAE947652F6F7C214EBB6F1D21D5.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/World.umap'
+[2018.05.27-00.24.54:067][442]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/World.umap
+[2018.05.27-00.24.54:317][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/World_BuiltData" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/World_BuiltData.uasset" SILENT=true
+[2018.05.27-00.24.54:333][442]LogSavePackage: Save=14.43ms
+[2018.05.27-00.24.54:334][442]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/World_BuiltDataEFDE0570440507D7D7CA759922260DE2.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/World_BuiltData.uasset'
+[2018.05.27-00.24.54:335][442]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/World_BuiltData.uasset
+[2018.05.27-00.24.54:446][442]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2018.05.27-00.24.54:446][442]SourceControl: Error: ProceduralGeneration/Content/Levels/World_BuiltData.uasset
+[2018.05.27-00.24.54:446][442]SourceControl: Error: Use -f if you really want to add them.
+[2018.05.27-00.24.54:462][442]LogFileHelpers: Saving map 'World' took 2.237
+[2018.05.27-00.24.54:573][449]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2018.05.27-00.25.05:775][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/lambert1" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert1.uasset" SILENT=true
+[2018.05.27-00.25.05:793][ 76]LogSavePackage: Save=15.47ms
+[2018.05.27-00.25.05:793][ 76]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert1A8A4744348EB056C641CAEB7DB971908.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert1.uasset'
+[2018.05.27-00.25.05:802][ 76]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert1.uasset
+[2018.05.27-00.25.05:948][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/lambert2" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert2.uasset" SILENT=true
+[2018.05.27-00.25.05:965][ 76]LogSavePackage: Save=14.30ms
+[2018.05.27-00.25.05:965][ 76]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert27F94DA0B442735E17E4D3897521FD8D1.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert2.uasset'
+[2018.05.27-00.25.05:971][ 76]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert2.uasset
+[2018.05.27-00.25.06:131][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/lambert3" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert3.uasset" SILENT=true
+[2018.05.27-00.25.06:147][ 76]LogSavePackage: Save=14.44ms
+[2018.05.27-00.25.06:147][ 76]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/lambert313D2F0B34EF93E73D0BCF897BB1D25AA.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert3.uasset'
+[2018.05.27-00.25.06:154][ 76]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Geometry/Meshes/lambert3.uasset
+[2018.05.27-00.25.06:311][ 76]LogSavePackage: Save=21.42ms
+[2018.05.27-00.25.06:311][ 76]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/BP_FloorTileBCA52A694C33CCCD3EDA3C8722E8B644.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2018.05.27-00.25.06:317][ 76]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.05.27-00.25.08:042][158]SourceControl: fatal: D:/Unreal Engine/UE_4.19/Engine/Content: 'D:/Unreal Engine/UE_4.19/Engine/Content' is outside repository
+[2018.05.27-00.25.16:887][158]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.27-00.25.17:426][158]LogSourceControl: commit successful: [master c319fb2] Unlimited Generation
+[2018.05.27-00.25.17:590][158]SourceControl: [master c319fb2] Unlimited Generation
+[2018.05.27-00.25.17:590][158]SourceControl:  11 files changed, 41 insertions(+)
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/Left.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/Right.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/Straight.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/lambert1.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/lambert2.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Geometry/Meshes/lambert3.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/Levels/World.umap
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  create mode 100644 ProceduralGeneration/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2018.05.27-00.25.17:590][158]SourceControl:  rewrite ProceduralGeneration/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset (100%)
+[2018.05.27-00.25.17:599][158]SourceControl: Commited [master c319fb2] Unlimited Generation.
