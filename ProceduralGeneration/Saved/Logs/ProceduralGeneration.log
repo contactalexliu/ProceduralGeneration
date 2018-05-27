@@ -2109,3 +2109,33 @@ LogInit: Object subsystem initialized
 [2018.05.27-13.18.21:891][373]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_FloorTileRamp_C_216.NODE_AddChildActorComponent-1_866' is not static  (in blueprint "BP_FloorTileRamp"), cannot attach '/Engine/Transient.World_3:PersistentLevel.NODE_AddChildActorComponent-1_BP_Item_C_CAT_1436.DefaultSceneRoot' which is static to it. Aborting.
 [2018.05.27-13.18.21:892][373]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_FloorTileRamp_C_216.NODE_AddChildActorComponent-1_867' is not static  (in blueprint "BP_FloorTileRamp"), cannot attach '/Engine/Transient.World_3:PersistentLevel.NODE_AddChildActorComponent-1_BP_Item_C_CAT_1437.DefaultSceneRoot' which is static to it. Aborting.
 [2018.05.27-13.18.21:893][373]PIE: Warning: AttachTo: '/Engine/Transient.World_3:PersistentLevel.BP_FloorTileRamp_C_216.NODE_AddChildActorComponent-1_868' is not static  (in blueprint "BP_FloorTileRamp"), cannot attach '/Engine/Transient.World_3:PersistentLevel.NODE_AddChildActorComponent-1_BP_Item_C_CAT_1438.DefaultSceneRoot' which is static to it. Aborting.
+[2018.05.27-13.18.36:496][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.27-13.18.44:100][787]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.27-13.18.53:701][277]LogSlate: Window 'Tree*' being destroyed
+[2018.05.27-13.18.53:710][278]LogRenderer: Reallocating scene render targets to support 1612x780 Format 10 NumSamples 1 (Frame:2662).
+[2018.05.27-13.19.28:756][639]BlueprintLog: New page: Compile Tree
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452b51fc00, Size=912
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452b51e400, Size=912
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024521cdb3c0, Size=200
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452c4cd800, Size=912
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024521cd9d00, Size=200
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002452c4cc800, Size=912
+[2018.05.27-13.19.28:955][639]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024534cdf800, Size=912
+[2018.05.27-13.19.29:407][656]LogSavePackage: Save=11.72ms
+[2018.05.27-13.19.29:407][656]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/Tree2433B4DB4D4676D28FFEC2AF0055D172.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/Tree.uasset'
+[2018.05.27-13.19.29:410][656]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/ThirdPersonBP/Blueprints/Tree.uasset
+[2018.05.27-13.19.33:017][861]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.27-13.19.35:976][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Menu" FILE="C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.27-13.19.36:018][ 22]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024490124988, Size=24
+[2018.05.27-13.19.36:018][ 22]LogUObjectGlobals: Created PersistentFrame Addr=0x000002448a9225c0, Size=24, Default__Menu_C Function /Engine/Transient.REINST_Menu_C_272:ExecuteUbergraph_Menu
+[2018.05.27-13.19.36:019][ 22]LogUObjectGlobals: Created PersistentFrame Addr=0x000002448a923190, Size=24, Default__Menu_C Function /Game/Levels/Menu.Menu_C:ExecuteUbergraph_Menu
+[2018.05.27-13.19.36:108][ 22]LogSavePackage: Save=94.49ms
+[2018.05.27-13.19.36:108][ 22]LogSavePackage: Moving 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Saved/MenuDF69251E4C42AEFD9099D586E54C0545.tmp' to 'C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/Menu.umap'
+[2018.05.27-13.19.36:112][ 22]LogSavePackage: Display: Finished SavePackage C:/Users/Harshil K/Documents/GitHub/ProceduralGeneration/ProceduralGeneration/Content/Levels/Menu.umap
+[2018.05.27-13.19.37:982][107]SourceControl: fatal: D:/Unreal Engine/UE_4.19/Engine/Content: 'D:/Unreal Engine/UE_4.19/Engine/Content' is outside repository
+[2018.05.27-13.19.45:315][107]LogSlate: Window 'Submit Files' being destroyed
+[2018.05.27-13.19.45:629][107]LogSourceControl: commit successful: [master 1b0e9a8] atfv2
+[2018.05.27-13.19.45:717][107]SourceControl: [master 1b0e9a8] atfv2
+[2018.05.27-13.19.45:717][107]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.05.27-13.19.45:717][107]SourceControl:  create mode 100644 ProceduralGeneration/Content/ThirdPersonBP/Blueprints/Tree.uasset
+[2018.05.27-13.19.45:725][107]SourceControl: Commited [master 1b0e9a8] atfv2.
